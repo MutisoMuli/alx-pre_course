@@ -17,5 +17,3 @@
 
  ## Author
  © ___[MutisoMuli](https://github.com/MutisoMuli)___
-
-  ![C-programming](https://encrypted-tbn0.gstatic.com/images?    q    =tbn:ANd9GcRij-OZjowrq8jTZjo96WIiGeL4BtPvro1IoA&usqp=CA    U)
